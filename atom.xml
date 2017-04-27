@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-27T09:22:51.487Z</updated>
+  <updated>2017-04-27T09:31:56.197Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/04/27/%E5%A4%84%E5%A5%B3%E7%AF%87/"/>
     <id>http://yoursite.com/2017/04/27/处女篇/</id>
     <published>2017-04-27T09:17:59.000Z</published>
-    <updated>2017-04-27T09:22:51.487Z</updated>
+    <updated>2017-04-27T09:31:56.197Z</updated>
     
     <content type="html"><![CDATA[<p>经过几天时间搭建了自己的博客，期间遇到了很多坑，由于还没有自己的域名，所以功能还都不完善，只有打赏功能能够使用了，哈哈哈哈，我不是故意的，来看的客官都试试打赏功能是不是真的可以使用了吧。。。</p>
 ]]></content>
@@ -33,7 +33,7 @@
     </summary>
     
     
-      <category term="mood" scheme="http://yoursite.com/tags/mood/"/>
+      <category term="-mood" scheme="http://yoursite.com/tags/mood/"/>
     
   </entry>
   
